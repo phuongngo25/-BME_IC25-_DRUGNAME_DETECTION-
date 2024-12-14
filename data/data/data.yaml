@@ -1,0 +1,5 @@
+train: E:/BMEINO_PREDIX/data/data/train/images
+val: E:/BMEINO_PREDIX/data/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']

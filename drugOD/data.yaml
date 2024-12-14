@@ -1,0 +1,19 @@
+train: E:/BMEINO_PREDIX/drugOD/train/images
+val: E:/BMEINO_PREDIX/drugOD/val/images
+# test: E:/BMEINO_PREDIX/drugOD/test
+
+names:
+  0: Bromhexin
+  1: Celecoxip
+  2: Clorpheniramin
+  3: Domperidone
+  4: Mekocefaclor
+  5: Waisan
+  6: Esomeprazol
+  7: Mg-B6
+  8: Ofloxacin
+  9: Panadol Extra
+  10: Paracetamol
+  11: Zopitad
+  
+
